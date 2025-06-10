@@ -10,7 +10,7 @@ Dans ce talk, nous explorerons comment **Chaos Monkey for Spring Boot** permet d
 ## Références
 * **repo github** : https://github.com/ErwanLT/springboot-demo
 * **article lié** : https://www.sfeir.dev/back/introduisez-du-chaos-dans-votre-application-spring-boot/
-* Talk donné le 14 mai lors du tremplin du devQuest
+* [Talk donné le 14 mai lors du tremplin du devQuest](https://www.youtube.com/watch?v=u3J6q4bj9Zc)
 
 ### Plan :
 - présentation du chaos engineering

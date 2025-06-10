@@ -9,6 +9,9 @@ C’est là qu’intervient le **Chaos Engineering**, une discipline qui consist
 #### Objectif
 Dans ce talk, nous explorerons comment **Chaos Monkey for Spring Boot** permet de simuler des comportement inattendu au sein de votre application Spring Boot .
 
+#### Références
+- [Tremplin devQuest](https://www.youtube.com/watch?v=u3J6q4bj9Zc)
+
 ## Story
 ### Syndrome de l'imposteur
 #### Résumé
