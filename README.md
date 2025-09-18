@@ -11,7 +11,9 @@ Dans ce talk, nous explorerons comment **Chaos Monkey for Spring Boot** permet d
 
 #### Références
 - [Tremplin devQuest](https://www.youtube.com/watch?v=u3J6q4bj9Zc)
-- JUG Summer Camp
+- JUG Summer Camp 2025
+- Codeurs en Seine 2025
+- DevFest Lyon 2025
 
 ## Story
 ### Syndrome de l'imposteur
