@@ -14,6 +14,7 @@ Dans ce talk, nous explorerons comment **Chaos Monkey for Spring Boot** permet d
 - [JUG Summer Camp 2025](https://youtu.be/KoZB4NWN7_c?si=6iVyb53oApqTiL0J)
 - Codeurs en Seine 2025
 - DevFest Lyon 2025
+- Touraine Tech 2026
 
 ## Story
 ### Syndrome de l'imposteur
