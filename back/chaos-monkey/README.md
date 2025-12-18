@@ -13,6 +13,8 @@ Dans ce talk, nous explorerons comment **Chaos Monkey for Spring Boot** permet d
 * Ou ce talk à t'il été donné ?
   * [le 14 mai 2025 lors du tremplin du devQuest](https://www.youtube.com/watch?v=u3J6q4bj9Zc)
   * [le 5 septembre 2025 lors du JUG Summer Camp](https://youtu.be/KoZB4NWN7_c?si=6iVyb53oApqTiL0J)
+  * le 20 novembre 2025 à Codeurs en Seine
+  * le 28 novembre 2025 lors de la première édition du Devfest Lyon
 
 ### Plan :
 - présentation du chaos engineering
